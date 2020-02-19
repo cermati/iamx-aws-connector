@@ -1,0 +1,31 @@
+{
+  "name": "iamx-aws-connector",
+  "version": "0.0.1",
+  "description": "AWS Connector for IAMX",
+  "main": "lib/index.js",
+  "dependencies": {
+    "aws-sdk": "2.610.0",
+    "bluebird": "3.7.2",
+    "randomstring": "1.1.5"
+  },
+  "devDependencies": {
+    "mocha": "7.0.1",
+    "chai": "4.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdsdkkk/iamx-aws-connector.git"
+  },
+  "keywords": [
+    "IAM"
+  ],
+  "author": "Edwin Tunggawan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sdsdkkk/iamx-aws-connector/issues"
+  },
+  "homepage": "https://github.com/sdsdkkk/iamx-aws-connector#readme"
+}
