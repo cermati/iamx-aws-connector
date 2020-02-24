@@ -5,10 +5,10 @@
   "main": "lib/index.js",
   "dependencies": {
     "aws-sdk": "2.610.0",
-    "bluebird": "3.7.2",
-    "randomstring": "1.1.5"
+    "bluebird": "3.7.2"
   },
   "devDependencies": {
+    "jsonschema": "1.2.5",
     "mocha": "7.0.1",
     "chai": "4.2.0"
   },
