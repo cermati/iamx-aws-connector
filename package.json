@@ -1,5 +1,6 @@
 {
   "name": "@cermati/iamx-aws-connector",
+  "version": "0.0.2",
   "description": "AWS Connector for IAMX",
   "main": "lib/index.js",
   "dependencies": {
